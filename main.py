@@ -20,9 +20,9 @@ from pyrogram.types import Message, InlineKeyboardButton, InlineKeyboardMarkup
 
 pbot = Client(
     "bypasserbot",
-    api_id=,
-    api_hash="",
-    bot_token="",
+    api_id=13983517,
+    api_hash="cbbfc633b8747950b339b50c1b9a874b",
+    bot_token="5814233637:AAFd83QsLvNIs7LbjRuImgpld1FXISGgoP0",
 )
 drivebuzz_crypt = ""
 drivefire_crypt = ""
